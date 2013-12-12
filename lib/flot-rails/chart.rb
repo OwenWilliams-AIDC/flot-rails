@@ -5,7 +5,8 @@ module Flot
     :bar => {bars: {show: true}, prefix: :bar},
     :line => {lines: {show: true}, prefix: :line},
     :point => {points: {show: true}, prefix: :point},
-    :pie => {series: {pie: {show: true}}, prefix: :pie}
+    :pie => {series: {pie: {show: true}}, prefix: :pie},
+    :spider => {series: {spider: {active: true}, {show: true}, prefix: :spider}}
   };
 
   def on_click

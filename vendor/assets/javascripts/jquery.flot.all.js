@@ -17,3 +17,4 @@
 //= require jquery.flot.errorbars
 //= require jquery.flot.time
 //= require jquery.flot.canvas
+//= require jquery.flot.spider
